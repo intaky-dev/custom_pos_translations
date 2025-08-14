@@ -1,0 +1,16 @@
+{
+    'name': 'Custom POS Translations',
+    'version': '18.0.1.0.0',
+    'summary': 'Override POS translations',
+    'description': 'Custom translations for Point of Sale module',
+    'category': 'Point of Sale',
+    'author': 'Tu Nombre',
+    'website': 'https://tusitio.com',
+    'license': 'LGPL-3',
+    'depends': ['point_of_sale'],
+    'data': [],
+    'demo': [],
+    'installable': True,
+    'application': False,
+    'auto_install': False,
+}
